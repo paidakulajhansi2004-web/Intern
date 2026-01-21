@@ -1,0 +1,7 @@
+com\example\intern\controller\InternController.class
+com\example\intern\entity\Batch.class
+com\example\intern\entity\Intern.class
+com\example\intern\repository\InternRepository.class
+com\example\intern\service\InternService.class
+com\example\intern\repository\BatchRepository.class
+com\example\intern\InternApplication.class
